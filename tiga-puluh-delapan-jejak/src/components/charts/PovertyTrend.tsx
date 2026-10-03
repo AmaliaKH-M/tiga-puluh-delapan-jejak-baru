@@ -7,6 +7,7 @@ import { ACCENT, INK } from "@/data/dataConfig";
 import { fmtPct } from "@/lib/formatting";
 
 const IND = "persen_penduduk_miskin";
+const START_YEAR = 2010;
 
 /**
  * Tren % penduduk miskin: garis provinsi (2005–2025; 2005–2009 putus-putus karena sumber belum
@@ -23,7 +24,7 @@ export function PovertyTrend() {
   const prov = useMemo(() =>
     Object.entries(d.province.data[IND]).map(([y, v]) => ({
       year: +y, v: v as number, unverified: (d.province.flags[IND]?.[y] ?? "").includes("perlu_verifikasi"),
-    })).sort((a, b) => a.year - b.year), [d]);
+    })).filter((p) => p.year >= START_YEAR).sort((a, b) => a.year - b.year), [d]);
   const kabYears = d3.range(2010, 2026);
   const lines = useMemo(() => d.regions.map((r) => ({
     kode: r.kode, pts: kabYears.map((y) => ({ year: y, v: value(d, IND, r.kode, y) })).filter((p) => p.v != null) as { year: number; v: number }[],
@@ -79,7 +80,6 @@ export function PovertyTrend() {
       )}
       <div className="mt-2 flex flex-wrap gap-4 text-xs text-muted-foreground">
         <span className="inline-flex items-center gap-1.5"><span className="h-0.5 w-5 bg-foreground" />Jawa Timur</span>
-        <span className="inline-flex items-center gap-1.5"><span className="h-0.5 w-5 border-t-2 border-dashed border-foreground/60" />2005–2009: sumber belum terverifikasi</span>
         <span className="inline-flex items-center gap-1.5"><span className="h-0.5 w-5 bg-[#c9a9b0]" />38 kab/kota (2010–2025)</span>
         <span className="inline-flex items-center gap-1.5"><span className="h-0.5 w-5" style={{ background: ACCENT }} />wilayah terpilih</span>
       </div>

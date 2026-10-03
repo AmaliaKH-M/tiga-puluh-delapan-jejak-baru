@@ -46,8 +46,8 @@ export function MethodologyDialog({ compact = false }: { compact?: boolean }) {
           {d.sources.filter((s) => s.judul).map((s) => (
             <li key={s.id} className="border-t border-border/60 pt-2">
               <span className="mr-2 rounded bg-muted px-1.5 py-0.5 text-xs">{s.id}</span>
-              {s.sumber}, “{s.judul}”, tahun data {s.tahun || "—"}{s.akses ? `, diakses ${s.akses}` : ""}.{" "}
-              {s.url ? <a href={s.url} target="_blank" rel="noreferrer" className="underline decoration-dotted">Buka sumber</a> : <em className="text-muted-foreground">URL belum diisi</em>}
+              {s.sumber}, “{s.judul}”{s.tahun && s.tahun !== "—" ? `, tahun data ${s.tahun}` : ""}{s.akses ? `, diakses ${s.akses}` : ""}.{" "}
+              {s.url ? <a href={s.url} target="_blank" rel="noreferrer" className="underline decoration-dotted">Buka sumber</a> : null}
             </li>
           ))}
         </ul>

@@ -5,6 +5,7 @@ import { Reveal } from "@/components/layout/Reveal";
 import { MethodologyDialog } from "@/components/layout/MethodologyDialog";
 import { CrowdCanvas } from "@/components/ui/skiper39";
 import { JatimSilhouette } from "@/components/map/JatimSilhouette";
+import { BannerImage } from "@/components/ui/banner-image";
 import { ASSETS } from "@/data/dataConfig";
 import { asset } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/useSize";
@@ -14,8 +15,9 @@ export function ClosingSection() {
   const mobile = useIsMobile();
   const [failed, setFailed] = useState(false);
   return (
-    <section id="epilog" className="paper grain relative overflow-hidden border-t border-border/70 pt-28">
-      <JatimSilhouette className="absolute left-1/2 top-16 w-[120%] -translate-x-1/2 md:w-[80%]" opacity={0.07} />
+    <section id="epilog" className="paper grain relative overflow-hidden border-t border-border/70 pt-16">
+  <BannerImage config={ASSETS.closingBanner} className="relative -mb-[16vh] h-[48vh] md:h-[58vh]" />
+  <JatimSilhouette className="absolute left-1/2 top-16 w-[120%] -translate-x-1/2 md:w-[80%]" opacity={0.07} />
       <div className="relative z-10 mx-auto max-w-3xl px-6">
         <Reveal>
           <p className="eyebrow">{closing.eyebrow}</p>
