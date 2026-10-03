@@ -23,8 +23,8 @@ export const site = {
   hook: "Satu angka bisa merangkum sebuah provinsi. Tetapi tidak ada seorang pun yang hidup di dalam rata-rata.",
   scrollHint: "Gulir untuk mulai membaca",
   author: "Amalia Khoirum Mazidah · 222312964 · 3SD1", // TODO: isi identitas
-  repoUrl: "https://github.com/AmaliaKH-M/tiga-puluh-delapan-jejak", // TODO
-  appUrl: "https://tiga-puluh-delapan-jejak.vercel.app/", // TODO
+repoUrl: "https://github.com/AmaliaKH-M/tiga-puluh-delapan-jejak-baru",
+  appUrl: "https://tiga-puluh-delapan-jejak-baru.vercel.app/",
 };
 
 export const intro = {
