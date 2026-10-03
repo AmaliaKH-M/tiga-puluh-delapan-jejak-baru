@@ -1,0 +1,18 @@
+kode_lapangan_usaha,nama_lapangan_usaha,sektor
+A,"Pertanian, Kehutanan, dan Perikanan",Primer
+B,Pertambangan dan Penggalian,Primer
+C,Industri Pengolahan,Sekunder
+D,Pengadaan Listrik dan Gas,Sekunder
+E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Sekunder
+F,Konstruksi,Sekunder
+G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tersier
+H,Transportasi dan Pergudangan,Tersier
+I,Penyediaan Akomodasi dan Makan Minum,Tersier
+J,Informasi dan Komunikasi,Tersier
+K,Jasa Keuangan dan Asuransi,Tersier
+L,Real Estate,Tersier
+"M,N",Jasa Perusahaan,Tersier
+O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tersier
+P,Jasa Pendidikan,Tersier
+Q,Jasa Kesehatan dan Kegiatan Sosial,Tersier
+"R,S,T,U",Jasa Lainnya,Tersier

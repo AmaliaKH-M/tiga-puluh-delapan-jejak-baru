@@ -1,0 +1,231 @@
+kode_wilayah,nama_wilayah,tahun,indikator,nilai,satuan,sumber_id,flag
+3500,Provinsi Jawa Timur,2010,gini_ratio,0.31,indeks,D15,
+3500,Provinsi Jawa Timur,2011,gini_ratio,0.36,indeks,D15,
+3500,Provinsi Jawa Timur,2012,gini_ratio,0.36,indeks,D15,
+3500,Provinsi Jawa Timur,2013,gini_ratio,0.36,indeks,D15,
+3500,Provinsi Jawa Timur,2014,gini_ratio,0.37,indeks,D15,
+3500,Provinsi Jawa Timur,2015,gini_ratio,0.42,indeks,D15,
+3500,Provinsi Jawa Timur,2016,gini_ratio,0.4,indeks,D15,
+3500,Provinsi Jawa Timur,2017,gini_ratio,0.4,indeks,D15,
+3500,Provinsi Jawa Timur,2018,gini_ratio,0.38,indeks,D15,
+3500,Provinsi Jawa Timur,2019,gini_ratio,0.37,indeks,D15,
+3500,Provinsi Jawa Timur,2020,gini_ratio,0.37,indeks,D15,
+3500,Provinsi Jawa Timur,2021,gini_ratio,0.37,indeks,D15,
+3500,Provinsi Jawa Timur,2022,gini_ratio,0.37,indeks,D15,
+3500,Provinsi Jawa Timur,2023,gini_ratio,0.39,indeks,D15,
+3500,Provinsi Jawa Timur,2024,gini_ratio,0.37,indeks,D15,
+3500,Provinsi Jawa Timur,2025,gini_ratio,0.37,indeks,D15,
+3500,Provinsi Jawa Timur,2010,hls,11.49,tahun,D08,
+3500,Provinsi Jawa Timur,2011,hls,11.62,tahun,D08,
+3500,Provinsi Jawa Timur,2012,hls,11.74,tahun,D08,
+3500,Provinsi Jawa Timur,2013,hls,12.17,tahun,D08,
+3500,Provinsi Jawa Timur,2014,hls,12.45,tahun,D08,
+3500,Provinsi Jawa Timur,2015,hls,12.66,tahun,D08,
+3500,Provinsi Jawa Timur,2016,hls,12.98,tahun,D08,
+3500,Provinsi Jawa Timur,2017,hls,13.09,tahun,D08,
+3500,Provinsi Jawa Timur,2018,hls,13.1,tahun,D08,
+3500,Provinsi Jawa Timur,2019,hls,13.16,tahun,D08,
+3500,Provinsi Jawa Timur,2020,hls,13.19,tahun,D08,
+3500,Provinsi Jawa Timur,2021,hls,13.36,tahun,D08,
+3500,Provinsi Jawa Timur,2022,hls,13.37,tahun,D08,
+3500,Provinsi Jawa Timur,2023,hls,13.38,tahun,D08,
+3500,Provinsi Jawa Timur,2024,hls,13.43,tahun,D08,
+3500,Provinsi Jawa Timur,2025,hls,13.44,tahun,D08,
+3500,Provinsi Jawa Timur,2010,ipm,65.36,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2011,ipm,66.06,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2012,ipm,66.74,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2013,ipm,67.55,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2014,ipm,68.14,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2015,ipm,68.95,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2016,ipm,69.74,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2017,ipm,70.27,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2018,ipm,70.77,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2019,ipm,71.5,indeks,D06,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2020,ipm,73.04,indeks,D06,
+3500,Provinsi Jawa Timur,2021,ipm,73.48,indeks,D06,
+3500,Provinsi Jawa Timur,2022,ipm,74.05,indeks,D06,
+3500,Provinsi Jawa Timur,2023,ipm,74.65,indeks,D06,
+3500,Provinsi Jawa Timur,2024,ipm,75.35,indeks,D06,
+3500,Provinsi Jawa Timur,2025,ipm,76.13,indeks,D06,
+3500,Provinsi Jawa Timur,2010,jumlah_penduduk,37565706.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2011,jumlah_penduduk,37840657.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2012,jumlah_penduduk,38106590.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2013,jumlah_penduduk,38363195.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2014,jumlah_penduduk,38610202.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2015,jumlah_penduduk,38847561.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2016,jumlah_penduduk,39075152.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2017,jumlah_penduduk,39292971.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2018,jumlah_penduduk,39500851.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2019,jumlah_penduduk,39698631.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2020,jumlah_penduduk,40665696.0,jiwa,D13,patahan_seri
+3500,Provinsi Jawa Timur,2021,jumlah_penduduk,40878789.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2022,jumlah_penduduk,41149974.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2023,jumlah_penduduk,41416407.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2024,jumlah_penduduk,41814499.0,jiwa,D13,patahan_seri
+3500,Provinsi Jawa Timur,2025,jumlah_penduduk,42089271.0,jiwa,D13,
+3500,Provinsi Jawa Timur,2010,jumlah_penduduk_miskin,5529.3,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2011,jumlah_penduduk_miskin,5356.21,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2012,jumlah_penduduk_miskin,5070.98,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2013,jumlah_penduduk_miskin,4771.26,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2014,jumlah_penduduk_miskin,4786.79,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2015,jumlah_penduduk_miskin,4789.12,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2016,jumlah_penduduk_miskin,4703.3,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2017,jumlah_penduduk_miskin,4617.01,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2018,jumlah_penduduk_miskin,4332.59,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2019,jumlah_penduduk_miskin,4112.25,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2020,jumlah_penduduk_miskin,4419.1,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2021,jumlah_penduduk_miskin,4572.73,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2022,jumlah_penduduk_miskin,4181.29,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2023,jumlah_penduduk_miskin,4188.81,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2024,jumlah_penduduk_miskin,3982.69,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2025,jumlah_penduduk_miskin,3875.88,ribu jiwa,D04,
+3500,Provinsi Jawa Timur,2010,kepadatan_penduduk,784.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2011,kepadatan_penduduk,791.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2012,kepadatan_penduduk,795.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2013,kepadatan_penduduk,795.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2014,kepadatan_penduduk,804.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2015,kepadatan_penduduk,809.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2016,kepadatan_penduduk,817.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2017,kepadatan_penduduk,822.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2018,kepadatan_penduduk,826.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2019,kepadatan_penduduk,830.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2020,kepadatan_penduduk,851.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2021,kepadatan_penduduk,855.0,jiwa/km2,D14,luas_acuan_berbeda
+3500,Provinsi Jawa Timur,2022,kepadatan_penduduk,857.0,jiwa/km2,D14,
+3500,Provinsi Jawa Timur,2023,kepadatan_penduduk,865.0,jiwa/km2,D14,
+3500,Provinsi Jawa Timur,2024,kepadatan_penduduk,870.0,jiwa/km2,D14,
+3500,Provinsi Jawa Timur,2025,kepadatan_penduduk,876.0,jiwa/km2,D14,
+3500,Provinsi Jawa Timur,2011,laju_pertumbuhan_pdrb_adhk,6.44,persen,D12,
+3500,Provinsi Jawa Timur,2012,laju_pertumbuhan_pdrb_adhk,6.64,persen,D12,
+3500,Provinsi Jawa Timur,2013,laju_pertumbuhan_pdrb_adhk,6.08,persen,D12,
+3500,Provinsi Jawa Timur,2014,laju_pertumbuhan_pdrb_adhk,5.86,persen,D12,
+3500,Provinsi Jawa Timur,2015,laju_pertumbuhan_pdrb_adhk,5.44,persen,D12,
+3500,Provinsi Jawa Timur,2016,laju_pertumbuhan_pdrb_adhk,5.57,persen,D12,
+3500,Provinsi Jawa Timur,2017,laju_pertumbuhan_pdrb_adhk,5.46,persen,D12,
+3500,Provinsi Jawa Timur,2018,laju_pertumbuhan_pdrb_adhk,5.47,persen,D12,
+3500,Provinsi Jawa Timur,2019,laju_pertumbuhan_pdrb_adhk,5.53,persen,D12,
+3500,Provinsi Jawa Timur,2020,laju_pertumbuhan_pdrb_adhk,-2.33,persen,D12,
+3500,Provinsi Jawa Timur,2021,laju_pertumbuhan_pdrb_adhk,3.56,persen,D12,
+3500,Provinsi Jawa Timur,2022,laju_pertumbuhan_pdrb_adhk,5.34,persen,D12,
+3500,Provinsi Jawa Timur,2023,laju_pertumbuhan_pdrb_adhk,4.95,persen,D12,
+3500,Provinsi Jawa Timur,2024,laju_pertumbuhan_pdrb_adhk,4.93,persen,D12,
+3500,Provinsi Jawa Timur,2025,laju_pertumbuhan_pdrb_adhk,5.33,persen,D12,
+3500,Provinsi Jawa Timur,2010,pdrb_per_kapita_adhb,26371.1,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2011,pdrb_per_kapita_adhb,29613.0,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2012,pdrb_per_kapita_adhb,32770.4,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2013,pdrb_per_kapita_adhb,36037.2,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2014,pdrb_per_kapita_adhb,39832.7,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2015,pdrb_per_kapita_adhb,43578.1,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2016,pdrb_per_kapita_adhb,47473.5,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2017,pdrb_per_kapita_adhb,51228.45,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2018,pdrb_per_kapita_adhb,55410.6,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2019,pdrb_per_kapita_adhb,59015.2,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2020,pdrb_per_kapita_adhb,56640.8,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2021,pdrb_per_kapita_adhb,59988.4,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2022,pdrb_per_kapita_adhb,66248.5,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2023,pdrb_per_kapita_adhb,71121.9,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2024,pdrb_per_kapita_adhb,75770.3,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2025,pdrb_per_kapita_adhb,80855.9,ribu rupiah,D11,
+3500,Provinsi Jawa Timur,2020,pengeluaran_bukan_makanan,542804.78,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2021,pengeluaran_bukan_makanan,555211.15,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2022,pengeluaran_bukan_makanan,564290.28,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2023,pengeluaran_bukan_makanan,666078.0,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2024,pengeluaran_bukan_makanan,667796.0,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2025,pengeluaran_bukan_makanan,703152.0,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2020,pengeluaran_makanan,521577.12,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2021,pengeluaran_makanan,557790.8,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2022,pengeluaran_makanan,600847.63,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2023,pengeluaran_makanan,657408.0,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2024,pengeluaran_makanan,689148.0,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2025,pengeluaran_makanan,715989.0,rupiah/kapita/bulan,D18,
+3500,Provinsi Jawa Timur,2010,pengeluaran_per_kapita_disesuaikan,9002.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2011,pengeluaran_per_kapita_disesuaikan,9396.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2012,pengeluaran_per_kapita_disesuaikan,9797.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2013,pengeluaran_per_kapita_disesuaikan,9978.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2014,pengeluaran_per_kapita_disesuaikan,10012.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2015,pengeluaran_per_kapita_disesuaikan,10383.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2016,pengeluaran_per_kapita_disesuaikan,10715.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2017,pengeluaran_per_kapita_disesuaikan,10973.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2018,pengeluaran_per_kapita_disesuaikan,11380.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2019,pengeluaran_per_kapita_disesuaikan,11739.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2020,pengeluaran_per_kapita_disesuaikan,11601.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2021,pengeluaran_per_kapita_disesuaikan,11707.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2022,pengeluaran_per_kapita_disesuaikan,11992.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2023,pengeluaran_per_kapita_disesuaikan,12421.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2024,pengeluaran_per_kapita_disesuaikan,12852.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2025,pengeluaran_per_kapita_disesuaikan,13509.0,ribu rupiah/orang/tahun,D05,
+3500,Provinsi Jawa Timur,2020,pengeluaran_total,1064381.9,rupiah/kapita/bulan,D18,turunan_makanan_plus_bukan_makanan
+3500,Provinsi Jawa Timur,2021,pengeluaran_total,1113001.95,rupiah/kapita/bulan,D18,turunan_makanan_plus_bukan_makanan
+3500,Provinsi Jawa Timur,2022,pengeluaran_total,1165137.91,rupiah/kapita/bulan,D18,turunan_makanan_plus_bukan_makanan
+3500,Provinsi Jawa Timur,2023,pengeluaran_total,1323486.0,rupiah/kapita/bulan,D18,turunan_makanan_plus_bukan_makanan
+3500,Provinsi Jawa Timur,2024,pengeluaran_total,1356944.0,rupiah/kapita/bulan,D18,turunan_makanan_plus_bukan_makanan
+3500,Provinsi Jawa Timur,2025,pengeluaran_total,1419141.0,rupiah/kapita/bulan,D18,turunan_makanan_plus_bukan_makanan
+3500,Provinsi Jawa Timur,2005,persen_penduduk_miskin,19.95,persen,D01,perlu_verifikasi
+3500,Provinsi Jawa Timur,2006,persen_penduduk_miskin,21.09,persen,D01,perlu_verifikasi
+3500,Provinsi Jawa Timur,2007,persen_penduduk_miskin,19.98,persen,D01,perlu_verifikasi
+3500,Provinsi Jawa Timur,2008,persen_penduduk_miskin,18.19,persen,D01,perlu_verifikasi
+3500,Provinsi Jawa Timur,2009,persen_penduduk_miskin,16.22,persen,D01,perlu_verifikasi
+3500,Provinsi Jawa Timur,2010,persen_penduduk_miskin,14.87,persen,D01,
+3500,Provinsi Jawa Timur,2011,persen_penduduk_miskin,13.85,persen,D01,
+3500,Provinsi Jawa Timur,2012,persen_penduduk_miskin,13.08,persen,D01,
+3500,Provinsi Jawa Timur,2013,persen_penduduk_miskin,12.73,persen,D01,
+3500,Provinsi Jawa Timur,2014,persen_penduduk_miskin,12.28,persen,D01,
+3500,Provinsi Jawa Timur,2015,persen_penduduk_miskin,12.34,persen,D01,
+3500,Provinsi Jawa Timur,2016,persen_penduduk_miskin,12.05,persen,D01,
+3500,Provinsi Jawa Timur,2017,persen_penduduk_miskin,11.77,persen,D01,
+3500,Provinsi Jawa Timur,2018,persen_penduduk_miskin,10.98,persen,D01,
+3500,Provinsi Jawa Timur,2019,persen_penduduk_miskin,10.37,persen,D01,
+3500,Provinsi Jawa Timur,2020,persen_penduduk_miskin,11.09,persen,D01,
+3500,Provinsi Jawa Timur,2021,persen_penduduk_miskin,11.4,persen,D01,
+3500,Provinsi Jawa Timur,2022,persen_penduduk_miskin,10.38,persen,D01,
+3500,Provinsi Jawa Timur,2023,persen_penduduk_miskin,10.35,persen,D01,
+3500,Provinsi Jawa Timur,2024,persen_penduduk_miskin,9.79,persen,D01,
+3500,Provinsi Jawa Timur,2025,persen_penduduk_miskin,9.5,persen,D01,
+3500,Provinsi Jawa Timur,2010,rls,6.73,tahun,D07,
+3500,Provinsi Jawa Timur,2011,rls,6.79,tahun,D07,
+3500,Provinsi Jawa Timur,2012,rls,6.85,tahun,D07,
+3500,Provinsi Jawa Timur,2013,rls,6.9,tahun,D07,
+3500,Provinsi Jawa Timur,2014,rls,7.05,tahun,D07,
+3500,Provinsi Jawa Timur,2015,rls,7.14,tahun,D07,
+3500,Provinsi Jawa Timur,2016,rls,7.23,tahun,D07,
+3500,Provinsi Jawa Timur,2017,rls,7.34,tahun,D07,
+3500,Provinsi Jawa Timur,2018,rls,7.39,tahun,D07,
+3500,Provinsi Jawa Timur,2019,rls,7.59,tahun,D07,
+3500,Provinsi Jawa Timur,2020,rls,7.78,tahun,D07,
+3500,Provinsi Jawa Timur,2021,rls,7.88,tahun,D07,
+3500,Provinsi Jawa Timur,2022,rls,8.03,tahun,D07,
+3500,Provinsi Jawa Timur,2023,rls,8.11,tahun,D07,
+3500,Provinsi Jawa Timur,2024,rls,8.28,tahun,D07,
+3500,Provinsi Jawa Timur,2025,rls,8.39,tahun,D07,
+3500,Provinsi Jawa Timur,2010,tpt,4.25,persen,D10,
+3500,Provinsi Jawa Timur,2011,tpt,5.33,persen,D10,
+3500,Provinsi Jawa Timur,2012,tpt,4.09,persen,D10,
+3500,Provinsi Jawa Timur,2013,tpt,4.3,persen,D10,
+3500,Provinsi Jawa Timur,2014,tpt,4.19,persen,D10,
+3500,Provinsi Jawa Timur,2015,tpt,4.47,persen,D10,
+3500,Provinsi Jawa Timur,2016,tpt,,persen,D10,tidak_tersedia
+3500,Provinsi Jawa Timur,2017,tpt,4.0,persen,D10,
+3500,Provinsi Jawa Timur,2018,tpt,3.91,persen,D10,
+3500,Provinsi Jawa Timur,2019,tpt,3.82,persen,D10,
+3500,Provinsi Jawa Timur,2020,tpt,5.84,persen,D10,
+3500,Provinsi Jawa Timur,2021,tpt,5.74,persen,D10,
+3500,Provinsi Jawa Timur,2022,tpt,5.49,persen,D10,
+3500,Provinsi Jawa Timur,2023,tpt,4.88,persen,D10,
+3500,Provinsi Jawa Timur,2024,tpt,4.19,persen,D10,
+3500,Provinsi Jawa Timur,2025,tpt,3.88,persen,D10,
+3500,Provinsi Jawa Timur,2010,uhh,69.89,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2011,uhh,70.02,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2012,uhh,70.14,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2013,uhh,70.34,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2014,uhh,70.45,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2015,uhh,70.68,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2016,uhh,70.74,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2017,uhh,70.8,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2018,uhh,70.97,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2019,uhh,71.18,tahun,D09,patahan_seri_metode_uhh
+3500,Provinsi Jawa Timur,2020,uhh,74.21,tahun,D09,uhh_lf_sp2020
+3500,Provinsi Jawa Timur,2021,uhh,74.28,tahun,D09,uhh_lf_sp2020
+3500,Provinsi Jawa Timur,2022,uhh,74.57,tahun,D09,uhh_lf_sp2020
+3500,Provinsi Jawa Timur,2023,uhh,74.87,tahun,D09,uhh_lf_sp2020
+3500,Provinsi Jawa Timur,2024,uhh,75.07,tahun,D09,uhh_lf_sp2020
+3500,Provinsi Jawa Timur,2025,uhh,75.36,tahun,D09,uhh_lf_sp2020
