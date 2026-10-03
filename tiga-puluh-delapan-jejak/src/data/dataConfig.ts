@@ -5,6 +5,7 @@
  */
 import type { AppData } from "@/lib/data";
 import { commonYears, validYears } from "@/lib/data";
+import type { BannerConfig } from "@/components/ui/banner-image";
 
 export type IndicatorMeta = {
   id: string;
@@ -132,7 +133,13 @@ export function projectYears(d: AppData) {
 /* ---------- Aset (ganti file di public/ tanpa mengubah kode) ---------- */
 export const ASSETS = {
   /** Ornamen/siluet Jawa Timur di belakang kerumunan. Ganti file ini saja. */
-  ornament: "assets/java-timur-silhouette.png",
+ornament: "assets/java-timur-silhouette.png",
+/**
+ * Banner atas halaman pembuka & penutup (memudar + blur ke bawah).
+ * Untuk foto/ilustrasi (mis. Reog): simpan di public/assets/banner/ lalu ubah src & fit: "cover".
+ */
+heroBanner: { src: "assets/banner/hero.jpeg", fit: "cover", position: "center 30%", opacity: 0.9 } as BannerConfig,
+closingBanner: { src: "assets/banner/closing.jpeg", fit: "cover", position: "center 35%", opacity: 0.95 } as BannerConfig,
   /**
    * Sprite kerumunan, dicoba berurutan:
    * 1) salinan lokal Open Peeps (CC0) — unduh dari URL CDN di bawah, simpan sebagai public/assets/crowd/open-peeps-sheet.png
