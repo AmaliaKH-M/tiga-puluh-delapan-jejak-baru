@@ -1,5 +1,9 @@
 # Tiga Puluh Delapan Jejak
 
+   **Laman web (akses publik):** https://tiga-puluh-delapan-jejak-baru.vercel.app/
+   **Repositori:** https://github.com/AmaliaKH-M/tiga-puluh-delapan-jejak-baru
+   **Penulis:** Amalia Khoirum Mazidah · 222312964 · 3SD1
+
 Website data storytelling: daya beli, kehidupan, dan pergeseran ekonomi Jawa Timur
 (38 kabupaten/kota, data BPS 2010–2025). UAS Visualisasi Data dan Informasi, Politeknik Statistika STIS 2026.
 
