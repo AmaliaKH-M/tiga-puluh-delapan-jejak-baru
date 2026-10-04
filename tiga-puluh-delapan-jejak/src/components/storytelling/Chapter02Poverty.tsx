@@ -20,9 +20,9 @@ export function Chapter02Poverty() {
     <ChapterShell text={chapters.poverty}>
       <ChartFrame
         title="Persentase penduduk miskin, Jawa Timur dan 38 kabupaten/kota"
-        subtitle={`Persen · provinsi 2005–${years.at(-1)}, kab/kota ${years[0]}–${years.at(-1)}`}
+subtitle={`Persen · ${years[0]}–${years.at(-1)}`}
         controls={<RegionPicker />}
-        footer={<SourceNote ids={["D01", "D03"]} note="Nilai provinsi 2005–2009 belum memiliki tabel sumber terdokumentasi; ditampilkan putus-putus sebagai konteks." />}
+        footer={<SourceNote ids={["D03"]} />}
       >
         <PovertyTrend />
       </ChartFrame>
