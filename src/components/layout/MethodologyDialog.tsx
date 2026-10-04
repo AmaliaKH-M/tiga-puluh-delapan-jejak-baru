@@ -71,7 +71,7 @@ export function MethodologyDialog({ compact = false }: { compact?: boolean }) {
 
   <li>
     Ornamen Reog Ponorogo pada halaman pembuka:
-    ilustrasi oleh{" "}
+    ilustrasi oleh {" "}
     <a
       href="https://id.pinterest.com/galleriza/"
       target="_blank"
