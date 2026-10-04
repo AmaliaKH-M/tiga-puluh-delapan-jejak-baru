@@ -68,8 +68,54 @@ export function MethodologyDialog({ compact = false }: { compact?: boolean }) {
         <ul className="mt-3 list-disc space-y-1.5 pl-5 text-sm">
           <li>Batas wilayah: ghapsara/indonesia-atlas (turunan data gispedia 2016), disederhanakan. Bukan data BPS. Lisensi tidak dinyatakan secara eksplisit oleh repository sumber (<em>license: not explicitly specified in source repository</em>). Kode wilayah BPS ditambahkan oleh penulis.</li>
           <li>Ilustrasi kerumunan: Open Peeps (Pablo Stanley, CC0). Animasi diadaptasi dari komponen Skiper UI (Skiper 39).</li>
-          <li>Ornamen Jawa Timur di halaman pembuka: <em>sumber & lisensi diisi penulis</em>.</li>
-        </ul>
+
+  <li>
+    Ornamen Reog Ponorogo pada halaman pembuka:
+    ilustrasi oleh
+    <a
+      href="https://id.pinterest.com/galleriza/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Riza Leony
+    </a>,
+    berjudul
+    <em>Reog Ponorogo Illustration</em>.
+    Sumber:
+    <a
+      href="https://id.pinterest.com/pin/1015280309758937272/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Pinterest
+    </a>.
+    Diakses pada 3 Oktober 2026.
+    Status lisensi: belum terverifikasi.
+  </li>
+
+  <li>
+    Ornamen Reog Ponorogo pada halaman penutup:
+    ilustrasi oleh
+    <a
+      href="https://id.pinterest.com/abinyaami/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Aryadi M. Ali
+    </a>,
+    berjudul <em>Reog Ponorogo</em>.
+    Sumber:
+    <a
+      href="https://id.pinterest.com/pin/515873332340973371/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Pinterest
+    </a>.
+    Diakses pada 3 Oktober 2026.
+    Status lisensi: belum terverifikasi.
+  </li>
+</ul>
 
         <h4 className="mt-8 eyebrow">Deklarasi penggunaan AI</h4>
         <p className="mt-2 text-sm">{closing.aiDeclaration}</p>
