@@ -36,7 +36,7 @@ export function Chapter06EconomicStructure() {
       </div>
       <div className="grid gap-6 xl:grid-cols-12">
         <ChartFrame className="xl:col-span-7" title={`Treemap PDRB, ${year}`} subtitle="Ukuran = nilai PDRB ADHB · warna = pertumbuhan riil · klik untuk turun satu level"
-          footer={<SourceNote ids={["D16", "D17", "D22"]} note={note} />}>
+          footer={<SourceNote ids={["D16", "D22"]} note={note} />}>
           <PDRBTreemap year={year} focus={focus} onFocus={setFocus} />
         </ChartFrame>
         <ChartFrame className="xl:col-span-5" title={`Sunburst PDRB, ${year}`} subtitle="Sudut = nilai PDRB ADHB · warna = sektor · klik cincin untuk zoom"

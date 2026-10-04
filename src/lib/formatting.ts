@@ -32,6 +32,7 @@ export function fillTemplate(text: string, facts: Record<string, unknown>): stri
       if (f === "int") return fmtInt(v);
       if (f === "compact") return fmtCompact(v);
       if (f === "x") return `${fmt(v, 1)}×`;
+      if (f === "d1") return fmt(v, 1);
       return fmt(v, Number.isInteger(v) ? 0 : 2);
     }
     return v == null ? `[${path}?]` : String(v);

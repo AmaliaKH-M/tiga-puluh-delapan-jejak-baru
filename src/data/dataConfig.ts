@@ -39,7 +39,7 @@ export const INDICATORS: Record<string, IndicatorMeta> = {
   pengeluaran_per_kapita_disesuaikan: {
     id: "pengeluaran_per_kapita_disesuaikan", label: "Pengeluaran per kapita disesuaikan", short: "PPK",
     unit: "ribu Rp/orang/tahun", digits: 0, sources: ["D05"], ratio: true,
-    definition: "Komponen standar hidup layak dalam IPM (harga konstan, paritas daya beli). Dipakai sebagai proxy daya beli, bukan ukuran kelas menengah.",
+    definition: "Komponen standar hidup layak dalam IPM (harga konstan, paritas daya beli). <SourceNote ids={["D16", "D22"]} note={note} />, bukan ukuran kelas menengah.",
   },
   ipm: {
     id: "ipm", label: "Indeks Pembangunan Manusia", short: "IPM", unit: "", digits: 2, sources: ["D06"], ratio: true,

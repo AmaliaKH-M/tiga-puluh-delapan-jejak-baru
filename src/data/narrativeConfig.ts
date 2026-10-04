@@ -73,7 +73,7 @@ export const chapters: Record<string, ChapterText> = {
   purchasing: {
     id: "bab-3", number: "03", eyebrow: "Daya beli",
     title: "Ketika daya beli tidak hanya dibaca dari pendapatan",
-    lede: "Pengeluaran per kapita disesuaikan adalah komponen standar hidup layak dalam IPM, sebuah proxy daya beli, bukan ukuran kelas menengah.",
+    lede: "Pengeluaran per kapita disesuaikan adalah komponen standar hidup layak dalam IPM, sebuah proksi daya beli, bukan ukuran kelas menengah.",
     question: "Seberapa jauh jarak daya beli antarwilayah?",
     body: [
       "Pada 2025, pengeluaran per kapita disesuaikan tertinggi ada di **{{ppkMax2025.nama}}** (Rp{{ppkMax2025.nilai|int}} ribu per orang per tahun), sekitar **{{rasioPpk2025|x}}** dibanding **{{ppkMin2025.nama}}**.",
@@ -84,11 +84,11 @@ export const chapters: Record<string, ChapterText> = {
   multivariate: {
     id: "bab-4", number: "04", eyebrow: "Membaca bersama",
     title: "Tidak semua wilayah bergerak bersama",
-    lede: "Sepuluh indikator 2025 diringkas dengan analisis komponen utama (PCA). Dua komponen pertama menjelaskan {{pcaExplained12}}% variasi.",
+    lede: "Sepuluh indikator 2025 diringkas dengan analisis komponen utama (PCA). Dua komponen pertama menjelaskan {{pcaExplained12|d1}}% variasi.",
     question: "Kelompok dan pencilan apa yang muncul ketika banyak indikator dibaca sekaligus?",
     body: [
       "Komponen pertama memisahkan wilayah dengan pengeluaran, pendidikan, dan kepadatan lebih tinggi dari wilayah dengan kemiskinan lebih tinggi. Kota-kota besar berada di satu ujung; sejumlah kabupaten di Madura berada di ujung lain.",
-      "Klaster hierarkis (Ward) membagi wilayah menjadi beberapa kelompok. **{{pdrbKapMax2025.nama}}** berdiri sendiri: PDRB per kapitanya sekitar {{pdrbKapMax2025.rasioMedian|x}} median wilayah lain, sementara pertumbuhannya rendah. Ini pencilan yang sah, bukan kesalahan data.",
+      "Klaster hierarkis (Ward) membagi wilayah menjadi empat kelompok. **{{pdrbKapMax2025.nama}}** berdiri sendiri: PDRB per kapitanya sekitar {{pdrbKapMax2025.rasioMedian|x}} median wilayah lain, sementara pertumbuhannya rendah. Ini pencilan yang sah, bukan kesalahan data.",
       "Klik satu titik, atau sapukan (brush) rentang nilai pada sumbu parallel coordinates. Semua tampilan, termasuk peta, akan menyorot wilayah yang sama.",
     ],
   },
@@ -108,8 +108,8 @@ export const chapters: Record<string, ChapterText> = {
     lede: "Struktur PDRB 38 kabupaten/kota menurut 17 lapangan usaha, 2020–2024.",
     question: "Ekonomi tiap wilayah bertumpu pada apa?",
     body: [
-      "Secara agregat, lapangan usaha terbesar pada 2024 adalah industri pengolahan ({{luTerbesar2024.share}}% PDRB). Namun pertanian masih menjadi lapangan usaha terbesar di **{{nDominanA2024}} dari {{nWilayah}}** kabupaten/kota.",
-      "Porsi sektor primer turun dari {{sektor2020.Primer}}% (2020) menjadi {{sektor2024.Primer}}% (2024), sementara tersier naik dari {{sektor2020.Tersier}}% menjadi {{sektor2024.Tersier}}%.",
+      "Secara agregat, lapangan usaha terbesar pada 2024 adalah industri pengolahan ({{luTerbesar2024.share|d1}}% PDRB). Namun pertanian masih menjadi lapangan usaha terbesar di **{{nDominanA2024}} dari {{nWilayah}}** kabupaten/kota.",
+      "Porsi sektor primer turun dari {{sektor2020.Primer|d1}}% (2020) menjadi {{sektor2024.Primer|d1}}% (2024), sementara tersier naik dari {{sektor2020.Tersier|d1}}% menjadi {{sektor2024.Tersier|d1}}%.",
       "Pertumbuhan riil 2020–2024 tidak seragam: tertinggi di **{{cagrMax.nama}}** ({{cagrMax.nilai}}% per tahun) dan terendah di **{{cagrMin.nama}}** ({{cagrMin.nilai}}% per tahun).",
     ],
   },
@@ -134,7 +134,7 @@ export const closing = {
     "Mungkin membaca angka dengan lebih dekat adalah cara pertama untuk melihat manusia yang selama ini berdiri di belakangnya.",
   ],
   limitations: [
-    "“Daya beli” dioperasionalkan melalui proxy (pengeluaran per kapita disesuaikan, kemiskinan, PDRB per kapita).",
+    "“Daya beli” dioperasionalkan melalui proksi (pengeluaran per kapita disesuaikan, kemiskinan, PDRB per kapita).",
     "PDRB menurut lapangan usaha hanya tersedia 2020–2024; 2023 sementara, 2024 sangat sementara.",
     "Patahan metodologis: UHH dan IPM (2019→2020), jumlah penduduk (2020, 2024), kepadatan (sebelum 2022).",
     "Hubungan antarindikator bersifat asosiatif; visualisasi ini tidak menguji sebab-akibat.",

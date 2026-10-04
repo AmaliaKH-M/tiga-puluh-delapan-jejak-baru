@@ -11,11 +11,11 @@ export function SourceNote({ ids, extra, note }: { ids: string[]; extra?: string
         <span className="font-semibold text-foreground/80">Sumber: BPS</span>
         {items.map((s) => (
           <span key={s!.id}>
-            {" · "}Badan Pusat Statistik, “{s!.judul}”, tahun data {s!.tahun}
+                        {" · "}{s!.sumber}, “{s!.judul}”{s!.tahun && s!.tahun !== "—" ? `, tahun data ${s!.tahun}` : ""}
             {s!.akses ? `, diakses ${s!.akses}` : ""}
             {s!.url ? (
               <> (<a className="underline decoration-dotted hover:text-foreground" href={s!.url} target="_blank" rel="noreferrer">tautan</a>)</>
-            ) : " (URL belum diisi)"}
+                        ) : ""}
           </span>
         ))}
         {extra && <span>{" · "}{extra}</span>}

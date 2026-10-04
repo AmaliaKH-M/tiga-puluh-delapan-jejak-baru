@@ -71,7 +71,7 @@ export function MethodologyDialog({ compact = false }: { compact?: boolean }) {
 
   <li>
     Ornamen Reog Ponorogo pada halaman pembuka:
-    ilustrasi oleh
+    ilustrasi oleh{" "}
     <a
       href="https://id.pinterest.com/galleriza/"
       target="_blank"
@@ -79,9 +79,9 @@ export function MethodologyDialog({ compact = false }: { compact?: boolean }) {
     >
       Riza Leony
     </a>,
-    berjudul
+    berjudul{" "}
     <em>Reog Ponorogo Illustration</em>.
-    Sumber:
+    Sumber:{" "}
     <a
       href="https://id.pinterest.com/pin/1015280309758937272/"
       target="_blank"
@@ -95,7 +95,7 @@ export function MethodologyDialog({ compact = false }: { compact?: boolean }) {
 
   <li>
     Ornamen Reog Ponorogo pada halaman penutup:
-    ilustrasi oleh
+    ilustrasi oleh{" "}
     <a
       href="https://id.pinterest.com/abinyaami/"
       target="_blank"
@@ -103,8 +103,8 @@ export function MethodologyDialog({ compact = false }: { compact?: boolean }) {
     >
       Aryadi M. Ali
     </a>,
-    berjudul <em>Reog Ponorogo</em>.
-    Sumber:
+    berjudul{" "} <em>Reog Ponorogo</em>.
+    Sumber:{" "}
     <a
       href="https://id.pinterest.com/pin/515873332340973371/"
       target="_blank"
